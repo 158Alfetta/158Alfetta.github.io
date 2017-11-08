@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to PSIT 60
 
 You can use the [editor on GitHub](https://github.com/158Alfetta/158Alfetta.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
