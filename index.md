@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-<img src="https://raw.githubusercontent.com/158Alfetta/158Alfetta.github.io/master/maps.svg">
+<img src="https://cdn.rawgit.com/158Alfetta/158Alfetta.github.io/3a0be04a/maps.svg">
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
