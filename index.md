@@ -21,7 +21,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
   	<h1 align="center">Airplane Crash</h1>
   	<center>
     <figure >
-      <embed type="image/svg+xml" src="https://cdn.rawgit.com/158Alfetta/5b7c9f176eef2cddcb51d2a8bc0d68fc/raw/b2139d5df17f864b85421e98a399860417e5837a/maps.svg" weight='1280' height="720" />
+      <embed type="image/svg+xml" src="https://cdn.rawgit.com/158Alfetta/5b7c9f176eef2cddcb51d2a8bc0d68fc/raw/19225aa529cdc297e8f59fb55694615c3b163b59/maps.svg" weight='1280' height="720" />
     </figure>
 	</center>	
     <p>Describe</p>	
