@@ -1,7 +1,5 @@
 ## Welcome to PSIT 60
 
-### Markdown
-
 <!DOCTYPE html>
 <html>
   <head
