@@ -4,9 +4,6 @@
 ตั้งแต่ปี พ.ศ.2513 (ค.ศ. 1970) จนถึงปี พ.ศ.2559 (ค.ศ. 2016) รวมระยะเวลากว่า 46 ปี โดยเลือกใช้ภาษา   
 python ในการเขียนโปรแกรมคำนวณ
 
-
-<img src="Picture/747800.jpg" weight='480' height="320" align="center" />
-
 <div style="text-align:center"><img src="Picture/747800.jpg" weight='480' height="320" /></div>
 
 ### ใช้ข้อมูลจากไหน ?
