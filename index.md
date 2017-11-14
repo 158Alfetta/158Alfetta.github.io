@@ -7,6 +7,7 @@ python ในการเขียนโปรแกรมคำนวณ
 
 <img src="Picture/747800.jpg" weight='480' height="320" align="center" />
 
+<div style="text-align:center"><img src="Picture/747800.jpg" weight='480' height="320" /></div>
 
 ### ใช้ข้อมูลจากไหน ?
   ข้อมูลจาก  
