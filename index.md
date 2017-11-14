@@ -20,7 +20,7 @@ python ในการเขียนโปรแกรมคำนวณ
 
 #### กราฟเส้นแสดงอัตราการเกิดอุบัติเหตุตามปี โดยเปรียบเทียบกับกราฟของผู้เสียชัวิต
 
-<embed type="image/svg+xml" src="https://cdn.rawgit.com/158Alfetta/941b94cbd93b85cf6bc9a25f2569d056/raw/9703783517fdcb2f822cf73d726fa04296543383/line_year.svg" weight='480' height="320" /><embed type="image/svg+xml" src="https://cdn.rawgit.com/158Alfetta/941b94cbd93b85cf6bc9a25f2569d056/raw/9703783517fdcb2f822cf73d726fa04296543383/line_fatal.svg" weight='480' height="320" />
+<embed type="image/svg+xml" src="https://cdn.rawgit.com/158Alfetta/941b94cbd93b85cf6bc9a25f2569d056/raw/9703783517fdcb2f822cf73d726fa04296543383/line_year.svg" weight='640' height="480" align="left"/><embed type="image/svg+xml" src="https://cdn.rawgit.com/158Alfetta/941b94cbd93b85cf6bc9a25f2569d056/raw/9703783517fdcb2f822cf73d726fa04296543383/line_fatal.svg" weight='640' height="480" align="right"/>
 
 
 
