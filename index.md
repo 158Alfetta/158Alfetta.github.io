@@ -67,7 +67,7 @@ ________________________________________________________________________________
 ### แผนภูมิแสดงสถิติการเกิดอุบัติเหตุโดยแบ่งตามประเภทของเครื่องบิน
 * แผนภูมินี้จะแบ่งประเภทการเกิดอุบัติเหตุตามประเภทเครื่องบิน  ว่าเป็นเครื่องบินทหาร เครื่องบินโดยสาร หรือเครื่องบินส่วนบุคคล
 
-<embed type="image/svg+xml" src="https://gist.githubusercontent.com/158Alfetta/03139e0c8111817079c0f4fbe2174e14/raw/509f11dfeeee7552500865fe492e9be62393e2ae/operator_categories.svg" weight='1024' height="768" />  
+<embed type="image/svg+xml" src="https://cdn.rawgit.com/158Alfetta/03139e0c8111817079c0f4fbe2174e14/raw/509f11dfeeee7552500865fe492e9be62393e2ae/operator_categories.svg" weight='1024' height="768" />  
 
 * Description :
 
