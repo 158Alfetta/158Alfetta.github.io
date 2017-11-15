@@ -38,6 +38,10 @@ ________________________________________________________________________________
 
 <embed type="image/svg+xml" src="https://gist.githubusercontent.com/158Alfetta/941b94cbd93b85cf6bc9a25f2569d056/raw/9703783517fdcb2f822cf73d726fa04296543383/ground%2520people.svg" weight='1024' height="768" />
 
+        ควรเพิ่มการแสดง การวิ่งคำลงในเหตุการณ์ ground เพื่อหาสาเหตุ
+
+* Descriptop : ยังวิเคราะห์ไม่ได้ จะเพิ่มอีกราฟ เพื่อมาวิเคราะห์
+
 <embed type="image/svg+xml" src="" weight='1024' height="768" />
 
 <embed type="image/svg+xml" src="https://cdn.rawgit.com/158Alfetta/941b94cbd93b85cf6bc9a25f2569d056/raw/9703783517fdcb2f822cf73d726fa04296543383/maps2.svg" weight='1024' height="768" />
