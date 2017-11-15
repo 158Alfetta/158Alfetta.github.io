@@ -17,13 +17,27 @@ python ในการเขียนโปรแกรมคำนวณ
 ## สถิติการเกิดอุบัติเหตุโดยเรียงตามปี
 
                         <<<PICTURE>>>
+  
+* Description ยกข้อมูลมาเปรีบเทียบ
 
-#### กราฟเส้นแสดงอัตราการเกิดอุบัติเหตุตามปี โดยเปรียบเทียบกับกราฟของผู้เสียชัวิต
+#### กราฟเส้นแสดงอัตราการเกิดอุบัติเหตุตามปี โดยเปรียบเทียบกับกราฟของผู้เสียชัวิต  
+* กราฟที่ 1 แสดงสถิติการเกิดอุบัติเหตุ โดยเรียงตามปี 
+* กราฟืที่ 2 แสดงผู้ที่เสียชีวิตในอุบัติเหตุ โดยเรียงตามปี
 
-<embed type="image/svg+xml" src="https://cdn.rawgit.com/158Alfetta/941b94cbd93b85cf6bc9a25f2569d056/raw/9703783517fdcb2f822cf73d726fa04296543383/line_year.svg" weight='800' height="600" align="center" /><embed type="image/svg+xml" src="https://cdn.rawgit.com/158Alfetta/941b94cbd93b85cf6bc9a25f2569d056/raw/9703783517fdcb2f822cf73d726fa04296543383/line_fatal.svg" weight='800' height="600" align="center" />
+<div style="text-align:center"><embed type="image/svg+xml" src="https://cdn.rawgit.com/158Alfetta/941b94cbd93b85cf6bc9a25f2569d056/raw/9703783517fdcb2f822cf73d726fa04296543383/line_year.svg" weight='800' height="600" align="center" /></div>
+_____________________________________________________________________________________________________
 
+<embed type="image/svg+xml" src="https://cdn.rawgit.com/158Alfetta/941b94cbd93b85cf6bc9a25f2569d056/raw/9703783517fdcb2f822cf73d726fa04296543383/line_fatal.svg" weight='800' height="600" align="center" />
 
+* Description ยกข้อมูลมาเปรีบเทียบ
 
+## สถิติแสดงการเกิดอุบัติเหตุที่ส่งผลกระทบต่อผู้คนภาคพื้น
+* แสดงเหตุการณ์ที่มีผู้เสียชีวิตที่อยู่บนภาคพื้น (Ground) เพราะโดยปกติแล้วเครื่องบินโดยส่วนใหญ่จะเกิดอุบัติเหตุบริเวณที่ไม่ใช่เขตเมือง หรือบริเวณจุดที่มีผู้คนอาศัยอยู่ เนื่องด้วยนักบินถูกฝึกให้หลีกเลี่ยงการเกิดอุบัติเหตุในลักษณะดังกล่าว เพื่อให้เกิดความเสียหายน้อยที่สุด ถ้าเหตุการณ์ใดนั้นมีผู้เสียชีวิตภาคพื้นมาก อาจสันนิษฐานได้ว่าเหตุการณ์นั้น อาจตกในบริเวณที่มีผู้คนอาศัยอยู่ หรือเขตเมือง
 
+โดยแผนภูมินี้จะแสดงสถิติผู้เสียชีวิตที่อยู่ภาคพื้น โดยเรียงตามจำนวนของผู้เสียชีวิต(ไม่รวมบนเครื่อง)   จะมาวิเคราะห์กันว่า ในเหตุการณ์ส่วนใหญ่นั้น มีอะไรเกิดขึ้น ที่ทำให้เครืองบินลำนั้น
+
+<embed type="image/svg+xml" src="https://gist.githubusercontent.com/158Alfetta/941b94cbd93b85cf6bc9a25f2569d056/raw/9703783517fdcb2f822cf73d726fa04296543383/ground%2520people.svg" weight='1024' height="768" />
+
+<embed type="image/svg+xml" src="" weight='1024' height="768" />
 
 <embed type="image/svg+xml" src="https://cdn.rawgit.com/158Alfetta/941b94cbd93b85cf6bc9a25f2569d056/raw/9703783517fdcb2f822cf73d726fa04296543383/maps2.svg" weight='1024' height="768" />
