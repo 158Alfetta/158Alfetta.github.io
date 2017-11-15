@@ -16,7 +16,7 @@ python ในการเขียนโปรแกรมคำนวณ
 
 ### สถิติการเกิดอุบัติเหตุโดยเรียงตามปี
 
-                        <<<PICTURE>>>  
+<embed type="image/svg+xml" src="https://cdn.rawgit.com/158Alfetta/13a7d40b672ac6fad55a0b57dd9ed6d7/raw/cb564b7fc814638fd62a66980efcceb3a508d265/bar_year.svg" weight='800' height="600" align="center" />  
 
 * Description ยกข้อมูลมาเปรีบเทียบ
 
