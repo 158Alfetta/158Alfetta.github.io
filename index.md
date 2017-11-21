@@ -36,11 +36,12 @@ ________________________________________________________________________________
 
 โดยแผนภูมินี้จะแสดงสถิติผู้เสียชีวิตที่อยู่ภาคพื้น โดยเรียงตามจำนวนของผู้เสียชีวิต(ไม่รวมบนเครื่อง)   จะมาวิเคราะห์กันว่า ในเหตุการณ์ส่วนใหญ่นั้น มีอะไรเกิดขึ้น ที่ทำให้เครืองบินลำนั้น
 
-<embed type="image/svg+xml" src="https://cdn.rawgit.com/158Alfetta/941b94cbd93b85cf6bc9a25f2569d056/raw/9703783517fdcb2f822cf73d726fa04296543383/ground%2520people.svg" weight='1024' height="768" />  
+<embed type="image/svg+xml" src="https://cdn.rawgit.com/158Alfetta/030aea455f9f7519aca745a50ab5c096/raw/7d2407adc2cfed38eef27a8e5a18b642afb5ae42/Groundpeople_2.svg
+" />  
 
-* Description : วิเคราะห์กราฟแรก
+* Description : วิเคราะห์กราฟแรก  
 
-        ควรเพิ่มการแสดง การวิ่งคำลงในเหตุการณ์ ground เพื่อหาสาเหตุ
+<embed type="image/svg+xml" src="https://cdn.rawgit.com/158Alfetta/030aea455f9f7519aca745a50ab5c096/raw/7d2407adc2cfed38eef27a8e5a18b642afb5ae42/Ground_keyword.svg" />  
 
 * Description : ยังวิเคราะห์ไม่ได้ จะเพิ่มอีกราฟ เพื่อมาวิเคราะห์  
 
