@@ -16,7 +16,7 @@ python ในการเขียนโปรแกรมคำนวณ
 
 ### สถิติการเกิดอุบัติเหตุโดยเรียงตามปี
 
-<embed type="image/svg+xml" src="https://cdn.rawgit.com/158Alfetta/13a7d40b672ac6fad55a0b57dd9ed6d7/raw/cb564b7fc814638fd62a66980efcceb3a508d265/bar_year.svg" weight='800' height="600" align="center" />  
+<embed type="image/svg+xml" src="https://cdn.rawgit.com/158Alfetta/13a7d40b672ac6fad55a0b57dd9ed6d7/raw/cb564b7fc814638fd62a66980efcceb3a508d265/bar_year.svg" align="center" />  
 
 * Description ยกข้อมูลมาเปรีบเทียบ
 
@@ -24,10 +24,10 @@ python ในการเขียนโปรแกรมคำนวณ
 * กราฟที่ 1 แสดงสถิติการเกิดอุบัติเหตุ โดยเรียงตามปี 
 * กราฟืที่ 2 แสดงผู้ที่เสียชีวิตในอุบัติเหตุ โดยเรียงตามปี
 
-<div style="text-align:center"><embed type="image/svg+xml" src="https://cdn.rawgit.com/158Alfetta/941b94cbd93b85cf6bc9a25f2569d056/raw/9703783517fdcb2f822cf73d726fa04296543383/line_year.svg" weight='800' height="600" align="center" /></div>
+<div style="text-align:center"><embed type="image/svg+xml" src="https://cdn.rawgit.com/158Alfetta/941b94cbd93b85cf6bc9a25f2569d056/raw/9703783517fdcb2f822cf73d726fa04296543383/line_year.svg" align="center" /></div>
 _____________________________________________________________________________________________________
 
-<embed type="image/svg+xml" src="https://cdn.rawgit.com/158Alfetta/941b94cbd93b85cf6bc9a25f2569d056/raw/9703783517fdcb2f822cf73d726fa04296543383/line_fatal.svg" weight='800' height="600" align="center" />  
+<embed type="image/svg+xml" src="https://cdn.rawgit.com/158Alfetta/941b94cbd93b85cf6bc9a25f2569d056/raw/9703783517fdcb2f822cf73d726fa04296543383/line_fatal.svg"  align="center" />  
 
 * Description ยกข้อมูลมาเปรีบเทียบ
 
@@ -48,7 +48,7 @@ ________________________________________________________________________________
 ### แผนที่แสดงอุบัติเหตุที่เกิดขึ้นในประเทศต่างๆ แสดงเป็นจำนวนครั้ง
 * เพื่อหาว่าอุบัติเหตุโดยส่วนใหญ่มักจะเกิดขึ้นที่ไหน และทวีปไหนเยอะ
 
-<embed type="image/svg+xml" src="https://cdn.rawgit.com/158Alfetta/941b94cbd93b85cf6bc9a25f2569d056/raw/9703783517fdcb2f822cf73d726fa04296543383/maps2.svg" weight='1024' height="768" />  
+<embed type="image/svg+xml" src="https://cdn.rawgit.com/158Alfetta/941b94cbd93b85cf6bc9a25f2569d056/raw/9703783517fdcb2f822cf73d726fa04296543383/maps2.svg"  />  
 
 * Description : บลาๆๆๆๆๆๆๆ
 
@@ -57,7 +57,7 @@ ________________________________________________________________________________
 * เนื่องจากมีรุ่นเครื่องบินมากมาย บางรุ่นอาจผลิตน้อยมาก และเกิดอุบัติเหตุน้อย จึงขอยกข้อมูลมาเพียง 10 อันดับแรก
 
 #### แผนภูมิแที่ 1 แสดงอัตราการเกิดอุบัติเหตุของรุ่นเครื่องบิน 10 อันดับแรก โดยเรียงตามจำนวนครั้งที่เกิด
-<embed type="image/svg+xml" src="https://cdn.rawgit.com/158Alfetta/e50eb46bde84fdea1da1026244548ace/raw/713fe286722b95d86d635f74c8ab0a4a22120860/type_recheck.svg" weight='1024' height="768" />  
+<embed type="image/svg+xml" src="https://cdn.rawgit.com/158Alfetta/e50eb46bde84fdea1da1026244548ace/raw/713fe286722b95d86d635f74c8ab0a4a22120860/type_recheck.svg"  />  
 _____________________________________________________________________________________________________
 
 #### แผนภูมิแสดงอัตราร้อยละ เมื่อนำข้อมูลจากตารางที่ 1 มาเทียบกับยอดการผลิตของเครื่องบินแต่ละรุ่น  
@@ -84,7 +84,7 @@ ________________________________________________________________________________
 2.ขณะทำการบิน (On-Flight)  
 3.ขณะนำเครื่องลงสู่ท่าอากาศยาน (Landing)
 
-<embed type="image/svg+xml" src="https://cdn.rawgit.com/158Alfetta/03139e0c8111817079c0f4fbe2174e14/raw/509f11dfeeee7552500865fe492e9be62393e2ae/status_bar_chart.svg" weight='1024' height="768" />
+<embed type="image/svg+xml" src="https://cdn.rawgit.com/158Alfetta/03139e0c8111817079c0f4fbe2174e14/raw/509f11dfeeee7552500865fe492e9be62393e2ae/status_bar_chart.svg" />
 
 * Description :
 
@@ -95,8 +95,14 @@ ________________________________________________________________________________
 
 * Description :
 
+#### แผนภูมิอุบัติเหตุที่เกิดจากสภาอากาศ(Weather) โดยจำแนกตามสภาวะสภาพอากาศ  
+* โดยวิเคราะห์จากกกกกกกกก
 
-<<<เพิ่ม event whether >>>
+<embed type="image/svg+xml" src="https://cdn.rawgit.com/158Alfetta/c52e169fbdada912b947918b2168db7c/raw/8ebf15e118ee7a4e418bad323bc169deb08f2fa5/categories_line.svg" />  
+* Description :  
+
+#### แผนภูมิอุบัติเหตุที่เกิดขึ้นจากความบกพร่องของเครื่องบิน
+* โดยวิเคราะห์จากกกกกกกก
 
 <<<เพิ่ม malfuction >>>
 
