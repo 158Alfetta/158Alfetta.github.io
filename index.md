@@ -91,7 +91,7 @@ ________________________________________________________________________________
 ### แผนภูมิแสดงประเภทของหนึ่งในสาเหตุที่ส่งผลต่อการเกิดอุบัติเหตุ
 * โดยวิเคราะห์จาก บลาๆๆๆๆๆๆๆๆๆๆๆๆๆๆๆๆๆๆ
 
-<embed type="image/svg+xml" src="https://cdn.rawgit.com/158Alfetta/b67a854ae42f74a973e6a2c936c1085e/raw/cabbc57763e97f4b9accac640e69c4bfb046ef18/classification.svg" weight='1024' height="768" />
+<embed type="image/svg+xml" src="https://cdn.rawgit.com/158Alfetta/b67a854ae42f74a973e6a2c936c1085e/raw/cabbc57763e97f4b9accac640e69c4bfb046ef18/classification.svg"  />
 
 * Description :
 
