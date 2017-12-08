@@ -98,7 +98,7 @@ ________________________________________________________________________________
 #### แผนภูมิอุบัติเหตุที่เกิดจากสภาอากาศ(Weather) โดยจำแนกตามสภาวะสภาพอากาศ  
 * โดยวิเคราะห์จากกกกกกกกก
 
-<embed type="image/svg+xml" src="https://cdn.rawgit.com/158Alfetta/c52e169fbdada912b947918b2168db7c/raw/8ebf15e118ee7a4e418bad323bc169deb08f2fa5/categories_line.svg" />  
+<embed type="image/svg+xml" src="https://cdn.rawgit.com/anonymous/e104d97e26dca4db821d32f987216b05/raw/75eca2d1335b2daf54c67795ab5fdbbfc92c2e2b/weather.svg" />  
 * Description :  
 
 #### แผนภูมิอุบัติเหตุที่เกิดขึ้นจากความบกพร่องของเครื่องบิน
